@@ -1,0 +1,40 @@
+{
+  "atlantic-2": [
+    {
+      "description": "The native token of the Sei network.",
+      "denom_units": [
+        {
+          "denom": "usei",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "base": "usei",
+      "display_base": "sei",
+      "name": "Sei",
+      "symbol": "SEI"
+    }
+  ],
+  "sei-devnet-3": [
+    {
+      "description": "The native token of the Sei network.",
+      "denom_units": [
+        {
+          "denom": "usei",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
+      "base": "usei",
+      "display_base": "sei",
+      "name": "Sei",
+      "symbol": "SEI"
+    }
+  ]
+}

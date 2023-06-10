@@ -1,0 +1,9 @@
+{
+  "network_type": "testnet",
+  "daemon_name": "seid",
+  "bech32_prefix": "sei",
+  "key_algos": ["secp256k1"],
+  "slip44": 118,
+  "fee_token": "usei",
+  "supported_wallets": ["fin", "compass", "leap", "keplr"]
+}

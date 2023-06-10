@@ -1,0 +1,41 @@
+{
+  "atlantic-2": {
+    "chainId": "atlantic-2",
+    "network_type": "testnet",
+    "rpc": [{
+      "provider": "Rhino",
+      "url": "https://rpc-sei-testnet.rhinostake.com"
+    },{
+      "provider": "Polkachu",
+      "url": "https://sei-testnet-rpc.polkachu.com"
+    }],
+    "rest": [{
+      "provider": "Rhino",
+      "url": "https://rest-sei-testnet.rhinostake.com"
+    },{
+      "provider": "Polkachu",
+      "url": "https://sei-testnet-api.polkachu.com"
+    }],
+    "grpc": [{
+      "provider": "Rhino",
+      "url": "https://grpc-sei-testnet.rhinostake.com"
+    },{
+      "provider": "Polkachu",
+      "url": "http://sei-testnet-grpc.polkachu.com:11990"
+    }],
+    "explorers": [
+      {
+        "name": "explorers-guru",
+        "url": "https://sei.explorers.guru",
+        "tx_page": "https://sei.explorers.guru/tx/${txHash}"
+      }
+    ]
+  },
+  "sei-devnet-3": {
+    "chainId": "sei-devnet-3",
+    "network_type": "devnet",
+    "rpc": [],
+    "rest": [],
+    "explorers": []
+  }
+}

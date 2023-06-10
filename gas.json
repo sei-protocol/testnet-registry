@@ -1,0 +1,24 @@
+{
+  "atlantic-2": {
+    "denom": "usei",
+    "min_gas_price": 0.01,
+    "module_adjustments": {
+      "dex": {
+        "sudo_gas_price": 0.01,
+        "order_placement": 55000,
+        "order_cancellation": 55000
+      }
+    }
+  },
+  "sei-devnet-3": {
+    "denom": "usei",
+    "min_gas_price": 0.01,
+    "module_adjustments": {
+      "dex": {
+        "sudo_gas_price": 0.01,
+        "order_placement": 55000,
+        "order_cancellation": 55000
+      }
+    }
+  }
+}

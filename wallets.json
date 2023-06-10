@@ -1,0 +1,28 @@
+{
+  "extensions": [
+    {
+      "name": "Keplr Wallet",
+      "identifier": "keplr",
+      "icon": "",
+      "url": "https://www.keplr.app"
+    },
+    {
+      "name": "Leap Wallet",
+      "identifier": "leap",
+      "icon": "",
+      "url": "https://www.leapwallet.io/cosmos"
+    },
+    {
+      "name": "Falcon Wallet",
+      "identifier": "falcon",
+      "icon": "",
+      "url": "https://www.falconwallet.app"
+    },
+    {
+      "name": "Coin98 Wallet",
+      "identifier": "coin98",
+      "icon": "",
+      "url": "https://coin98.com"
+    }
+  ]
+}
