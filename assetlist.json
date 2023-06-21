@@ -168,10 +168,20 @@
   "sei-devnet-3": [
     {
       "name": "Sei",
+      "description": "The native token of Sei",
       "symbol": "SEI",
-      "description": "The native token of the Sei network.",
       "base": "usei",
-      "exponent": 6,
+      "display": "sei",
+      "denom_units": [
+        {
+          "denom": "usei",
+          "exponent": 0
+        },
+        {
+          "denom": "sei",
+          "exponent": 6
+        }
+      ],
       "logo_URIs": {
         "png": "https://github.com/cosmos/chain-registry/blob/master/testnets/seitestnet2/images/sei.png"
       }
