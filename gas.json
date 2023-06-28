@@ -1,7 +1,7 @@
 {
   "atlantic-2": {
     "denom": "usei",
-    "min_gas_price": 3.5,
+    "min_gas_price": 0.01,
     "module_adjustments": {
       "dex": {
         "sudo_gas_price": 0.01,
