@@ -13,6 +13,13 @@
       "src_channel": "channel-44",
       "port_id": "transfer",
       "client_id": "07-tendermint-80"
+    },
+    {
+      "counterparty_chain_name": "wormchain-testnet-0",
+      "dst_channel": "channel-3",
+      "src_channel": "channel-15",
+      "port_id": "wasm.sei1nna9mzp274djrgzhzkac2gvm3j27l402s4xzr08chq57pjsupqnqaj0d5s",
+      "client_id": "07-tendermint-55"
     }
   ]
 }
