@@ -1,4 +1,27 @@
 {
+  "pacific-1": {
+    "chainId": "atlantic-2",
+    "network_type": "testnet",
+    "rpc": [{
+      "provider": "Sei",
+      "url": "https://rpc.pacific-1.sei.io"
+    }],
+    "rest": [{
+      "provider": "Sei",
+      "url": "https://rest.pacific-1.sei.io"
+    }],
+    "grpc": [{
+      "provider": "Sei",
+      "url": "https://grpc.pacific-1.sei.io"
+    }],
+    "explorers": [
+      {
+        "name": "Seiscan",
+        "url": "https://www.seiscan.app/pacific-1",
+        "tx_page": "https://www.seiscan.app/pacific-1/txs/${txHash}"
+      }
+    ]
+  },
   "atlantic-2": {
     "chainId": "atlantic-2",
     "network_type": "testnet",
